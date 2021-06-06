@@ -29,6 +29,6 @@ int main(){
     cout << "Nhap ten file: ";
     cin >> file_name;
     file.open(file_name,ios::in);
-    
+    cout << "HelloWorld" ;
 }
 
